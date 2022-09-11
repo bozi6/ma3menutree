@@ -1,0 +1,2445 @@
+<li>StationSettings</li>
+<ol>
+    <li>Timeconfig</li>
+    <li>LocalSettings</li>
+    <li>DefaultDisplayPositionsCollect</li>
+    <ol>
+        <li>Conventional</li>
+        <li>Web</li>
+    </ol>
+    <li>DesklightsCollect</li>
+    <ol>
+        <li>Desklights</li>
+        <li>Screens</li>
+        <li>LedMaster</li>
+        <li>LedBackground</li>
+        <li>LedFeedback</li>
+    </ol>
+    <li>DisplaySurfaces</li>
+    <li>GridColumnRegistry</li>
+    <ol>
+        <li>FixturesSetupGrid</li>
+        <li>FixtureTypesSetupGrid</li>
+        <li>LibraryGrid</li>
+        <li>ObjectGrid</li>
+        <li>MAnetStationGrid</li>
+        <li>ALLWINDOWSGRID</li>
+        <li>CUEGRID</li>
+        <li>HDDDETAILSGRID</li>
+        <li>ASSIGMENTGRID</li>
+        <li>IMAGEGRID</li>
+        <li>TABLE</li>
+        <li>OBJGRID</li>
+        <li>LAYOUTELEMENTDEFAULTS</li>
+        <li>FIXTURETYPEEDITORGRID</li>
+        <li>MATERIALGRID</li>
+        <li>FILESVIEW</li>
+        <li>ATTRIBUTESETUPGRID</li>
+        <li>ACTIVATIONGROUPSSETUPGRID</li>
+        <li>REFERENCESGRID</li>
+        <li>GENERICEDITORGRID</li>
+        <li>OSMIDIGRID</li>
+        <li>CONSOLES</li>
+        <li>OSCDATA</li>
+        <li>POOLS</li>
+        <li>GELS</li>
+        <li>GRID1</li>
+        <li>GRID2</li>
+        <li>USBNOTIFIERGRID</li>
+        <li>EXTENSIONSGRID</li>
+    </ol>
+</ol>
+
+
+<li>Interfaces</li>
+<ol>
+    <li>lo0</li>
+    <li>en0</li>
+    <li>vnic0</li>
+</ol>
+
+
+<li>KeyRegistry</li>
+<ol>
+    <li>Default</li>
+</ol>
+
+<li>MAnetSocket</li>
+<ol>
+    <li>Undefined</li>
+    <li>Console</li>
+    <li>onPC</li>
+    <li>PU</li>
+    <li>NetworkNode</li>
+    <li>InternalWing</li>
+    <li>Switch</li>
+    <li>Plugin</li>
+    <li>PluginSmall</li>
+    <li>Extension</li>
+    <li>UpdateMode</li>
+</ol>
+
+
+<li>Cloud</li>
+
+
+<li>NDI</li>
+
+
+<li>UsbNotifier</li>
+
+
+<li>WebServer</li>
+
+
+<li>VirtualKeys</li>
+<ol>
+    <li>MA1</li>
+    <li>MA2</li>
+    <li>PREV</li>
+    <li>PREV</li>
+    <li>PREV</li>
+    <li>PREV</li>
+    <li>NEXT</li>
+    <li>NEXT</li>
+    <li>NEXT</li>
+    <li>NEXT</li>
+    <li>RESET</li>
+    <li>RESET</li>
+    <li>RESET</li>
+    <li>UP</li>
+    <li>UP</li>
+    <li>SELFIX</li>
+    <li>SELFIX</li>
+    <li>DOWN</li>
+    <li>MENU</li>
+    <li>HIGH</li>
+    <li>HIGH</li>
+    <li>HIGH</li>
+    <li>SOLO</li>
+    <li>FREEZE</li>
+    <li>PREVIEW</li>
+    <li>BLIND</li>
+    <li>PAGE_UP</li>
+    <li>PAGE_DOWN</li>
+    <li>LIST</li>
+    <li>LIST</li>
+    <li>LIST</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X1</li>
+    <li>X2</li>
+    <li>X2</li>
+    <li>X2</li>
+    <li>X2</li>
+    <li>X3</li>
+    <li>X3</li>
+    <li>X3</li>
+    <li>X3</li>
+    <li>X3</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X4</li>
+    <li>X5</li>
+    <li>X5</li>
+    <li>X5</li>
+    <li>X5</li>
+    <li>X5</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X6</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X7</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X8</li>
+    <li>X9</li>
+    <li>X9</li>
+    <li>X9</li>
+    <li>X9</li>
+    <li>X10</li>
+    <li>X10</li>
+    <li>X10</li>
+    <li>X10</li>
+    <li>X11</li>
+    <li>X11</li>
+    <li>X11</li>
+    <li>X11</li>
+    <li>X12</li>
+    <li>X12</li>
+    <li>X12</li>
+    <li>X12</li>
+    <li>X13</li>
+    <li>X13</li>
+    <li>X13</li>
+    <li>X13</li>
+    <li>X13</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X14</li>
+    <li>X15</li>
+    <li>X15</li>
+    <li>X15</li>
+    <li>X15</li>
+    <li>X15</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>X16</li>
+    <li>EXEC</li>
+    <li>FADER</li>
+    <li>DEF_GO</li>
+    <li>DEF_GO</li>
+    <li>DEF_GO</li>
+    <li>DEF_PAUSE</li>
+    <li>DEF_GOBACK</li>
+    <li>PAUSE</li>
+    <li>PAUSE</li>
+    <li>PAUSE</li>
+    <li>PAUSE</li>
+    <li>GOBACK</li>
+    <li>GOBACK</li>
+    <li>GOBACK</li>
+    <li>GO</li>
+    <li>GO</li>
+    <li>GO</li>
+    <li>GO</li>
+    <li>GO</li>
+    <li>GO</li>
+    <li>LEARN</li>
+    <li>LEARN</li>
+    <li>LEARN</li>
+    <li>GOBACKFAST</li>
+    <li>GOBACKFAST</li>
+    <li>GOBACKFAST</li>
+    <li>GOFAST</li>
+    <li>GOFAST</li>
+    <li>GOFAST</li>
+    <li>ON</li>
+    <li>ON</li>
+    <li>OFF</li>
+    <li>MOVE</li>
+    <li>MOVE</li>
+    <li>COPY</li>
+    <li>COPY</li>
+    <li>COPY</li>
+    <li>COPY</li>
+    <li>COPY</li>
+    <li>DELETE</li>
+    <li>DELETE</li>
+    <li>DELETE</li>
+    <li>ALIGN</li>
+    <li>ALIGN</li>
+    <li>ALIGN</li>
+    <li>STOMP</li>
+    <li>STOMP</li>
+    <li>HELP</li>
+    <li>SELECT</li>
+    <li>SELECT</li>
+    <li>GOTO</li>
+    <li>GOTO</li>
+    <li>GOTO</li>
+    <li>GOTO</li>
+    <li>GOTO</li>
+    <li>GOTO</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>FIXTURE</li>
+    <li>CHANNEL</li>
+    <li>GROUP</li>
+    <li>GROUP</li>
+    <li>GROUP</li>
+    <li>SEQUENCE</li>
+    <li>CUE</li>
+    <li>CUE</li>
+    <li>CUE</li>
+    <li>CUE</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>PRESET</li>
+    <li>EDIT</li>
+    <li>EDIT</li>
+    <li>ASSIGN</li>
+    <li>ASSIGN</li>
+    <li>ASSIGN</li>
+    <li>TIME</li>
+    <li>UPDATE</li>
+    <li>UPDATE</li>
+    <li>UPDATE</li>
+    <li>UPDATE</li>
+    <li>UPDATE</li>
+    <li>STORE</li>
+    <li>STORE</li>
+    <li>STORE</li>
+    <li>NUM0</li>
+    <li>NUM1</li>
+    <li>NUM1</li>
+    <li>NUM2</li>
+    <li>NUM2</li>
+    <li>NUM2</li>
+    <li>NUM2</li>
+    <li>NUM3</li>
+    <li>NUM3</li>
+    <li>NUM4</li>
+    <li>NUM4</li>
+    <li>NUM4</li>
+    <li>NUM4</li>
+    <li>NUM5</li>
+    <li>NUM5</li>
+    <li>NUM5</li>
+    <li>NUM5</li>
+    <li>NUM6</li>
+    <li>NUM6</li>
+    <li>NUM6</li>
+    <li>NUM6</li>
+    <li>NUM7</li>
+    <li>NUM7</li>
+    <li>NUM8</li>
+    <li>NUM8</li>
+    <li>NUM8</li>
+    <li>NUM8</li>
+    <li>NUM9</li>
+    <li>NUM9</li>
+    <li>PLUS</li>
+    <li>PLUS</li>
+    <li>THRU</li>
+    <li>MINUS</li>
+    <li>MINUS</li>
+    <li>DOT</li>
+    <li>DOT</li>
+    <li>DOT</li>
+    <li>DOT</li>
+    <li>IF</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>AT</li>
+    <li>SLASH</li>
+    <li>SLASH</li>
+    <li>SLASH</li>
+    <li>PLEASE</li>
+    <li>PLEASE</li>
+    <li>PLEASE</li>
+    <li>FULL</li>
+    <li>UNDO</li>
+    <li>CLEAR</li>
+    <li>ESC</li>
+    <li>ENCODER_INSIDE1</li>
+    <li>ENCODER_OUTSIDE1</li>
+    <li>ENCODER_INSIDE2</li>
+    <li>ENCODER_OUTSIDE2</li>
+    <li>ENCODER_INSIDE3</li>
+    <li>ENCODER_OUTSIDE3</li>
+    <li>ENCODER_INSIDE4</li>
+    <li>ENCODER_OUTSIDE4</li>
+    <li>ENCODER_INSIDE5</li>
+    <li>ENCODER_OUTSIDE5</li>
+    <li>USER1</li>
+    <li>USER2</li>
+    <li>XKEYS</li>
+</ol>
+<li>HardwareConfigurations</li>
+<ol>
+    <li>grandMA3 Master Module (MM)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Fader Module Encoder (MFE)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Fader Module Crossfader (MFX)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 onPC command wing</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 compact</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 compact XT</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 DMX board (GM3-X)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 processing unit DMX board (GM3P-X)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Node 4Port board (GM3-4P)</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Din-Rail Node</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 IO Node</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Din-Rail IO Node</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 MA-Key</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 Viz-Key</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 onPC fader wing</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+    <li>grandMA3 onPC rack-unit</li>
+    <ol>
+        <li>Hardkeys</li>
+        <li>LedDefinitions</li>
+        <li>EncoderDefinitions</li>
+        <li>FaderDefinitions</li>
+        <li>HardwareIoConnectors</li>
+    </ol>
+</ol>
+<li>KeyboardLayouts</li>
+<ol>
+    <li>German</li>
+    <li>English</li>
+    <li>Russian</li>
+    <li>Danish</li>
+</ol>
+<li>ShowData</li>
+<ol>
+    <li>ShowSettings</li>
+    <ol>
+        <li>DefaultPlaybackSettings</li>
+        <li>GlobalSettings</li>
+        <li>MidiSettings</li>
+        <li>SoundSettings</li>
+        <li>TimecodeStatuses</li>
+        <li>GlobalVariables</li>
+        <li>AddonVariables</li>
+        <li>ShowMetaData</li>
+        <li>ShowDeletedData</li>
+    </ol>
+    <li>MediaPools</li>
+    <ol>
+        <li>Gobos</li>
+        <ol>
+            <li>ma_open</li>
+            <li>ma_open_angular</li>
+            <li>ma_wash</li>
+            <li>ma_wash_angular</li>
+        </ol>
+        <li>Symbols</li>
+        <li>Images</li>
+        <li>MeshImagePool</li>
+        <li>Videos</li>
+        <li>Sounds</li>
+    </ol>
+    <li>Scribbles</li>
+    <li>Appearances</li>
+    <li>GelPools</li>
+    <ol>
+        <li>MA</li>
+        <li>Apollo Design</li>
+        <li>Rosco CalColour</li>
+        <li>Rosco Cinegel</li>
+        <li>Rosco Supergel</li>
+        <li>GamColor</li>
+        <li>Lee</li>
+        <li>Poly Colour</li>
+        <li>Storaro Selection</li>
+        <li>Lee Zircon</li>
+        <li>Custom</li>
+    </ol>
+    <li>Meshes</li>
+    <ol>
+        <li>cube_3ds</li>
+        <li>sphere_3ds</li>
+        <li>cylinder_3ds</li>
+        <li>base_3ds</li>
+        <li>yoke_3ds</li>
+        <li>head_3ds</li>
+        <li>scanner_3ds</li>
+        <li>conventional_3ds</li>
+        <li>pigtail_3ds</li>
+    </ol>
+    <li>RDMData</li>
+    <ol>
+        <li>RDMFixtureTypes</li>
+        <li>RDMPorts</li>
+    </ol>
+    <li>LivePatch</li>
+    <ol>
+        <li>DmxCurves</li>
+        <ol>
+            <li>DmxCurve 1</li>
+        </ol>
+        <li>AttributeDefinitions</li>
+        <ol>
+            <li>DeactivationGroups</li>
+            <li>ActivationGroups</li>
+            <li>FeatureGroups</li>
+            <li>Attributes</li>
+        </ol>
+        <li>Layers</li>
+        <ol>
+            <li>FixtureLayer</li>
+        </ol>
+        <li>Classes</li>
+        <ol>
+            <li>Class 1</li>
+        </ol>
+        <li>FixtureTypes</li>
+        <li>Stages</li>
+        <ol>
+            <li>Stage 1</li>
+        </ol>
+        <li>UIChannels</li>
+        <li>RTChannels</li>
+        <li>IDTypes</li>
+        <ol>
+            <li>Fixture</li>
+            <li>Channel</li>
+            <li>Universal</li>
+            <li>Houselights</li>
+            <li>NonDim</li>
+            <li>Media</li>
+            <li>Fog</li>
+            <li>Effect</li>
+            <li>Pyro</li>
+            <li>MArker</li>
+            <li>Multipatch</li>
+        </ol>
+        <li>DMXUniverses</li>
+        <ol>
+            <li>1024 DmxUniverses</li>
+        </ol>
+        <li>DMXAddresses</li>
+        <ol>
+            <li>524288 DMXAddresses</li>
+        </ol>
+        <li>FixtureTypesOverview</li>
+        <li>PatchFilter</li>
+    </ol>
+    <li>Patch</li>
+    <ol>
+        <li>DMXCurves</li>
+        <ol>
+            <li>DmxCurve 1</li>
+        </ol>
+        <li>AttributeDefinitions</li>
+        <ol>
+            <li>DeactivationGroups</li>
+            <ol>
+                <li>Position</li>
+                <li>Color</li>
+            </ol>
+            <li>ActivationGroups</li>
+            <ol>
+                <li>PanTilt</li>
+                <li>XYZ</li>
+                <li>RotXYZ</li>
+                <li>ScaleXYZ</li>
+                <li>ColorRGB</li>
+                <li>ColorHSB</li>
+                <li>ColorCIE</li>
+                <li>Gobo1</li>
+                <li>Gobo1Pos</li>
+                <li>Gobo2</li>
+                <li>Gobo2Pos</li>
+                <li>Gobo3</li>
+                <li>Gobo3Pos</li>
+                <li>AnimationWheel1</li>
+                <li>AnimationWheel1Pos</li>
+                <li>AnimationSystem1</li>
+                <li>AnimationSystem1Pos</li>
+                <li>Prism</li>
+                <li>BeamShaper</li>
+                <li>Shaper</li>
+            </ol>
+            <li>FeatureGroups</li>
+            <ol>
+                <li>Dimmer</li>
+                <ol>
+                    <li>Dimmer</li>
+                </ol>
+                <li>Position</li>
+                <ol>
+                    <li>PanTilt</li>
+                    <li>XYZ</li>
+                    <li>Rotation</li>
+                    <li>Scale</li>
+                </ol>
+                <li>Gobo</li>
+                <ol>
+                    <li>Gobo</li>
+                    <li>Media</li>
+                </ol>
+                <li>Color</li>
+                <ol>
+                    <li>RGB</li>
+                    <li>Color</li>
+                    <li>HSB</li>
+                    <li>CIE</li>
+                    <li>ColorCorrection</li>
+                    <li>HSBC_Shift</li>
+                    <li>ColorKey</li>
+                </ol>
+                <li>Beam</li>
+                <ol>
+                    <li>Beam</li>
+                </ol>
+                <li>Focus</li>
+                <ol>
+                    <li>Focus</li>
+                </ol>
+                <li>Control</li>
+                <ol>
+                    <li>Control</li>
+                </ol>
+                <li>Shapers</li>
+                <ol>
+                    <li>Shapers</li>
+                </ol>
+                <li>Video</li>
+                <ol>
+                    <li>Video</li>
+                </ol>
+            </ol>
+            <li>Attributes</li>
+            <ol>
+                <li>Dimmer</li>
+                <li>Pan</li>
+                <li>Tilt</li>
+                <li>PanTiltDistance</li>
+                <li>PanRotate</li>
+                <li>TiltRotate</li>
+                <li>PositionEffect</li>
+                <li>PositionEffectRate</li>
+                <li>PositionEffectFade</li>
+                <li>XYZ_X</li>
+                <li>XYZ_Y</li>
+                <li>XYZ_Z</li>
+                <li>XYZ_Flip</li>
+                <li>XYZ_MArker</li>
+                <li>XYZ_Mode</li>
+                <li>Rot_X</li>
+                <li>Rot_Y</li>
+                <li>Rot_Z</li>
+                <li>Scale_X</li>
+                <li>Scale_Y</li>
+                <li>Scale_Z</li>
+                <li>Gobo1</li>
+                <li>Gobo1SelectSpin</li>
+                <li>Gobo1SelectShake</li>
+                <li>Gobo1SelectEffects</li>
+                <li>Gobo1WheelIndex</li>
+                <li>Gobo1WheelSpin</li>
+                <li>Gobo1WheelShake</li>
+                <li>Gobo1WheelRandom</li>
+                <li>Gobo1WheelAudio</li>
+                <li>Gobo1Pos</li>
+                <li>Gobo1PosRotate</li>
+                <li>Gobo1PosShake</li>
+                <li>Gobo2</li>
+                <li>Gobo2SelectSpin</li>
+                <li>Gobo2SelectShake</li>
+                <li>Gobo2SelectEffects</li>
+                <li>Gobo2WheelIndex</li>
+                <li>Gobo2WheelSpin</li>
+                <li>Gobo2WheelShake</li>
+                <li>Gobo2WheelRandom</li>
+                <li>Gobo2WheelAudio</li>
+                <li>Gobo2Pos</li>
+                <li>Gobo2PosRotate</li>
+                <li>Gobo2PosShake</li>
+                <li>Gobo3</li>
+                <li>Gobo3SelectSpin</li>
+                <li>Gobo3SelectShake</li>
+                <li>Gobo3SelectEffects</li>
+                <li>Gobo3WheelIndex</li>
+                <li>Gobo3WheelSpin</li>
+                <li>Gobo3WheelShake</li>
+                <li>Gobo3WheelRandom</li>
+                <li>Gobo3WheelAudio</li>
+                <li>Gobo3Pos</li>
+                <li>Gobo3PosRotate</li>
+                <li>Gobo3PosShake</li>
+                <li>AnimationWheel1</li>
+                <li>AnimationWheel1Audio</li>
+                <li>AnimationWheel1Macro</li>
+                <li>AnimationWheel1Random</li>
+                <li>AnimationWheel1SelectEffects</li>
+                <li>AnimationWheel1SelectShake</li>
+                <li>AnimationWheel1SelectSpin</li>
+                <li>AnimationWheel1Pos</li>
+                <li>AnimationWheel1PosRotate</li>
+                <li>AnimationWheel1PosShake</li>
+                <li>AnimationSystem1</li>
+                <li>AnimationSystem1Ramp</li>
+                <li>AnimationSystem1Shake</li>
+                <li>AnimationSystem1Audio</li>
+                <li>AnimationSystem1Random</li>
+                <li>AnimationSystem1Pos</li>
+                <li>AnimationSystem1PosRotate</li>
+                <li>AnimationSystem1PosShake</li>
+                <li>AnimationSystem1PosRandom</li>
+                <li>AnimationSystem1PosAudio</li>
+                <li>AnimationSystem1Macro</li>
+                <li>MediaFolder1</li>
+                <li>MediaContent1</li>
+                <li>ModelFolder1</li>
+                <li>ModelContent1</li>
+                <li>Playmode</li>
+                <li>PlayBegin</li>
+                <li>PlayEnd</li>
+                <li>PlaySpeed</li>
+                <li>ColorEffects1</li>
+                <li>Color1</li>
+                <li>Color1WheelIndex</li>
+                <li>Color1WheelSpin</li>
+                <li>Color1WheelRandom</li>
+                <li>Color1WheelAudio</li>
+                <li>Color2</li>
+                <li>Color2WheelIndex</li>
+                <li>Color2WheelSpin</li>
+                <li>Color2WheelRandom</li>
+                <li>Color2WheelAudio</li>
+                <li>Color3</li>
+                <li>Color3WheelIndex</li>
+                <li>Color3WheelSpin</li>
+                <li>Color3WheelRandom</li>
+                <li>Color3WheelAudio</li>
+                <li>Color4</li>
+                <li>Color4WheelIndex</li>
+                <li>Color4WheelSpin</li>
+                <li>Color4WheelRandom</li>
+                <li>Color4WheelAudio</li>
+                <li>ColorRGB_R</li>
+                <li>ColorRGB_G</li>
+                <li>ColorRGB_B</li>
+                <li>ColorRGB_C</li>
+                <li>ColorRGB_M</li>
+                <li>ColorRGB_Y</li>
+                <li>ColorRGB_RY</li>
+                <li>ColorRGB_GY</li>
+                <li>ColorRGB_GC</li>
+                <li>ColorRGB_BC</li>
+                <li>ColorRGB_BM</li>
+                <li>ColorRGB_RM</li>
+                <li>ColorRGB_W</li>
+                <li>ColorRGB_WW</li>
+                <li>ColorRGB_CW</li>
+                <li>ColorRGB_UV</li>
+                <li>ColorMacro</li>
+                <li>ColorMacro2</li>
+                <li>CTO</li>
+                <li>CTC</li>
+                <li>CTB</li>
+                <li>Tint</li>
+                <li>HSB_Hue</li>
+                <li>HSB_Saturation</li>
+                <li>HSB_Brightness</li>
+                <li>HSB_Quality</li>
+                <li>CIE_X</li>
+                <li>CIE_Y</li>
+                <li>CIE_Brightness</li>
+                <li>VideoBoost_R</li>
+                <li>VideoBoost_G</li>
+                <li>VideoBoost_B</li>
+                <li>VideoHueShift</li>
+                <li>VideoSaturation</li>
+                <li>VideoBrightness</li>
+                <li>VideoContrast</li>
+                <li>VideoKeyColor_R</li>
+                <li>VideoKeyColor_G</li>
+                <li>VideoColorKey_B</li>
+                <li>VideoKeyIntensity</li>
+                <li>VideoKeyTolerance</li>
+                <li>StrobeDuration</li>
+                <li>StrobeRate</li>
+                <li>Shutter1</li>
+                <li>Shutter1Strobe</li>
+                <li>Shutter1StrobePulse</li>
+                <li>Shutter1StrobePulseClose</li>
+                <li>Shutter1StrobePulseOpen</li>
+                <li>Shutter1StrobeRandom</li>
+                <li>Shutter1StrobeRandomPulse</li>
+                <li>Shutter1StrobeRandomPulseClose</li>
+                <li>Shutter1StrobeRandomPulseOpen</li>
+                <li>Shutter1StrobeEffect</li>
+                <li>Shutter2</li>
+                <li>Shutter2Strobe</li>
+                <li>Shutter2StrobePulse</li>
+                <li>Shutter2StrobePulseClose</li>
+                <li>Shutter2StrobePulseOpen</li>
+                <li>Shutter2StrobeRandom</li>
+                <li>Shutter2StrobeRandomPulse</li>
+                <li>Shutter2StrobeRandomPulseClose</li>
+                <li>Shutter2StrobeRandomPulseOpen</li>
+                <li>Shutter2StrobeEffect</li>
+                <li>Shutter3</li>
+                <li>Shutter3Strobe</li>
+                <li>Shutter3StrobePulse</li>
+                <li>Shutter3StrobePulseClose</li>
+                <li>Shutter3StrobePulseOpen</li>
+                <li>Shutter3StrobeRandom</li>
+                <li>Shutter3StrobeRandomPulse</li>
+                <li>Shutter3StrobeRandomPulseClose</li>
+                <li>Shutter3StrobeRandomPulseOpen</li>
+                <li>Shutter3StrobeEffect</li>
+                <li>Iris</li>
+                <li>IrisStrobe</li>
+                <li>IrisStrobeRandom</li>
+                <li>IrisPulseClose</li>
+                <li>IrisPulseOpen</li>
+                <li>IrisRandomPulseClose</li>
+                <li>IrisRandomPulseOpen</li>
+                <li>Frost1</li>
+                <li>Frost1PulseOpen</li>
+                <li>Frost1PulseClose</li>
+                <li>Frost1Ramp</li>
+                <li>Frost2</li>
+                <li>Frost2PulseOpen</li>
+                <li>Frost2PulseClose</li>
+                <li>Frost2Ramp</li>
+                <li>Prism1</li>
+                <li>Prism1SelectSpin</li>
+                <li>Prism1Macro</li>
+                <li>Prism1Pos</li>
+                <li>Prism1PosRotate</li>
+                <li>Prism2</li>
+                <li>Prism2SelectSpin</li>
+                <li>Prism2Macro</li>
+                <li>Prism2Pos</li>
+                <li>Prism2PosRotate</li>
+                <li>Effects1</li>
+                <li>Effects1Rate</li>
+                <li>Effects1Fade</li>
+                <li>Effects1Adjust1</li>
+                <li>Effects1Pos</li>
+                <li>Effects1PosRotate</li>
+                <li>Effects2</li>
+                <li>Effects2Rate</li>
+                <li>Effects2Fade</li>
+                <li>Effects2Adjust1</li>
+                <li>Effects2Pos</li>
+                <li>Effects2PosRotate</li>
+                <li>EffectsSync</li>
+                <li>BeamShaper</li>
+                <li>BeamShaperMacro</li>
+                <li>BeamShaperPos</li>
+                <li>BeamShaperPosRotate</li>
+                <li>Focus1</li>
+                <li>Focus1Adjust</li>
+                <li>Focus1Distance</li>
+                <li>Focus2</li>
+                <li>Focus2Adjust</li>
+                <li>Focus2Distance</li>
+                <li>Zoom</li>
+                <li>ZoomModeSpot</li>
+                <li>ZoomModeBeam</li>
+                <li>Control1</li>
+                <li>DimmerMode</li>
+                <li>DimmerCurve</li>
+                <li>BlackoutMode</li>
+                <li>LEDFrequency</li>
+                <li>LEDZoneMode</li>
+                <li>PixelMode</li>
+                <li>PanMode</li>
+                <li>TiltMode</li>
+                <li>PanTiltMode</li>
+                <li>PositionModes</li>
+                <li>Gobo1WheelMode</li>
+                <li>Gobo2WheelMode</li>
+                <li>Gobo3WheelMode</li>
+                <li>AnimationWheel1Mode</li>
+                <li>AnimationIndexRotateMode</li>
+                <li>AnimationWheelShortcutMode</li>
+                <li>Color1Mode</li>
+                <li>Color2Mode</li>
+                <li>Color3Mode</li>
+                <li>Color4Mode</li>
+                <li>ColorWheelShortcutMode</li>
+                <li>CyanMode</li>
+                <li>MagentaMode</li>
+                <li>YellowMode</li>
+                <li>ColorMixMode</li>
+                <li>ChromaticMode</li>
+                <li>ColorCalibrationMode</li>
+                <li>ColorConsistency</li>
+                <li>ColorControl</li>
+                <li>ColorModelMode</li>
+                <li>ColorSettingsReset</li>
+                <li>ColorUniformity</li>
+                <li>CRIMode</li>
+                <li>CustomColor</li>
+                <li>UVStability</li>
+                <li>WavelengthCorrection</li>
+                <li>White Count</li>
+                <li>StrobeMode</li>
+                <li>ZoomMode</li>
+                <li>FocusMode</li>
+                <li>IrisMode</li>
+                <li>FanMode</li>
+                <li>FollowSpotMode</li>
+                <li>BeamEffectIndexRotateMode</li>
+                <li>IntensityMSpeed</li>
+                <li>PositionMSpeed</li>
+                <li>ColorMixMSpeed</li>
+                <li>ColorWheelSelectMSpeed</li>
+                <li>GoboWheel1MSpeed</li>
+                <li>GoboWheel2MSpeed</li>
+                <li>GoboWheel3MSpeed</li>
+                <li>GoboWheel4MSpeed</li>
+                <li>IrisMSpeed</li>
+                <li>Prism1MSpeed</li>
+                <li>Prism2MSpeed</li>
+                <li>FocusMSpeed</li>
+                <li>Frost1MSpeed</li>
+                <li>Frost2MSpeed</li>
+                <li>FrameMSpeed</li>
+                <li>GlobalMSpeed</li>
+                <li>ZoomMSpeed</li>
+                <li>ReflectorAdjust</li>
+                <li>FixtureGlobalReset</li>
+                <li>ShutterReset</li>
+                <li>BeamReset</li>
+                <li>ColorMixReset</li>
+                <li>ColorWheelReset</li>
+                <li>FocusReset</li>
+                <li>FrameReset</li>
+                <li>GoboWheelReset</li>
+                <li>IntensityReset</li>
+                <li>IrisReset</li>
+                <li>PositionReset</li>
+                <li>PanReset</li>
+                <li>TiltReset</li>
+                <li>ZoomReset</li>
+                <li>CTBReset</li>
+                <li>CTOReset</li>
+                <li>CTCReset</li>
+                <li>AnimationSystemReset</li>
+                <li>FixtureCalibrationReset</li>
+                <li>Function</li>
+                <li>LampControl</li>
+                <li>DisplayIntensity</li>
+                <li>DMXInput</li>
+                <li>NoFeature</li>
+                <li>Dummy</li>
+                <li>Blower1</li>
+                <li>Fan1</li>
+                <li>Fog1</li>
+                <li>Haze1</li>
+                <li>LampPowerMode</li>
+                <li>Fans</li>
+                <li>Blade1A</li>
+                <li>Blade1B</li>
+                <li>Blade2A</li>
+                <li>Blade2B</li>
+                <li>Blade3A</li>
+                <li>Blade3B</li>
+                <li>Blade4A</li>
+                <li>Blade4B</li>
+                <li>Blade1Rot</li>
+                <li>Blade2Rot</li>
+                <li>Blade3Rot</li>
+                <li>Blade4Rot</li>
+                <li>ShaperRot</li>
+                <li>ShaperMacros</li>
+                <li>ShaperMacrosSpeed</li>
+                <li>BladeSoft1A</li>
+                <li>BladeSoft1B</li>
+                <li>BladeSoft2A</li>
+                <li>BladeSoft2B</li>
+                <li>BladeSoft3A</li>
+                <li>BladeSoft3B</li>
+                <li>BladeSoft4A</li>
+                <li>BladeSoft4B</li>
+                <li>KeyStone1A</li>
+                <li>KeyStone1B</li>
+                <li>KeyStone2A</li>
+                <li>KeyStone2B</li>
+                <li>KeyStone3A</li>
+                <li>KeyStone3B</li>
+                <li>KeyStone4A</li>
+                <li>KeyStone4B</li>
+                <li>Video</li>
+                <li>MediaFolder</li>
+                <li>MediaContent</li>
+                <li>VideoEffect1Type</li>
+                <li>VideoEffect1Parameter1</li>
+                <li>VideoCamera1</li>
+                <li>FieldOfView</li>
+                <li>InputSource</li>
+                <li>VideoBlendMode</li>
+                <li>VideoSoundVolume1</li>
+            </ol>
+            <li>Layers</li>
+            <ol>
+                <li>FixtureLayer 1</li>
+            </ol>
+            <li>Classes</li>
+            <ol>
+                <li>Class 1</li>
+            </ol>
+            <li>FixtureTypes</li>
+            <ol>
+                <li>Universal</li>
+            </ol>
+            <li>Stages</li>
+            <ol>
+                <li>Stage 1</li>
+            </ol>
+            <li>UIChannels</li>
+            <ol>
+                <li>Univ Dimmer</li>
+                <li>Univ Pan</li>
+                <li>Univ Tilt</li>
+                <li>Univ ColorRGB_R</li>
+                <li>Univ ColorRGB_G</li>
+                <li>Univ ColorRGB_B</li>
+                <li>Univ Zoom</li>
+                <li>Univ Iris</li>
+            </ol>
+            <li>RTChannels</li>
+            <ol>
+                <li>Univ Head_Dimmer</li>
+                <li>Univ Yoke_Pan</li>
+                <li>Univ Head_Tilt</li>
+                <li>Univ Head_ColorRGB_R</li>
+                <li>Univ Head_ColorRGB_G</li>
+                <li>Univ Head_ColorRGB_B</li>
+                <li>Univ Head_Zoom</li>
+                <li>Univ Head_Iris</li>
+            </ol>
+            <li>IDTypes</li>
+            <ol>
+                <li>Fixture</li>
+                <li>Channel</li>
+                <li>Universal</li>
+                <li>Houselights</li>
+                <li>NonDim</li>
+                <li>Media</li>
+                <li>Fog</li>
+                <li>Effect</li>
+                <li>Pyro</li>
+                <li>MArker</li>
+                <li>Multipatch</li>
+            </ol>
+            <li>DMXUniverses</li>
+            <ol>
+                <li>1024 DmxUniverses</li>
+            </ol>
+            <li>DMXAddresses</li>
+            <ol>
+                <li>524 288 DMXAddresses</li>
+            </ol>
+            <li>FixtureTypesOverview</li>
+            <ol>
+                <li>Universal</li>
+            </ol>
+            <li>PatchFilter</li>
+        </ol>
+    </ol>
+    <li>PsrPatch</li>
+    <ol>
+        <li>DmxCurves</li>
+        <li>AttributeDefinitions</li>
+        <li>Layers</li>
+        <li>Classes</li>
+        <li>FixtureTypes</li>
+        <li>Stages</li>
+        <li>UIChannels</li>
+        <li>RTChannels</li>
+        <li>IDTypes</li>
+        <li>DMXUniverses</li>
+        <li>DMXAddressess</li>
+        <li>FixtureTypesOverview</li>
+        <li>PatchFilter</li>
+    </ol>
+    <li>Output</li>
+    <li>Masters</li>
+    <ol>
+        <li>Selected</li>
+        <ol>
+            <li>Master</li>
+            <li>XFade</li>
+            <li>XFadeA</li>
+            <li>XFadeB</li>
+            <li>Temp</li>
+            <li>Rate</li>
+            <li>Speed</li>
+            <li>Highlight</li>
+            <li>Lowlight</li>
+            <li>Solo</li>
+            <li>Time</li>
+        </ol>
+        <li>Grand</li>
+        <ol>
+            <li>Master</li>
+            <li>World</li>
+            <li>Highlight</li>
+            <li>Lowlight</li>
+            <li>Solo</li>
+            <li>Rate</li>
+            <li>Speed</li>
+            <li>ProgramTime</li>
+            <li>ProgramXFade</li>
+            <li>ExecutiorTime</li>
+            <li>ExecutorXFade</li>
+            <li>ProgramSpeed</li>
+            <li>Blind</li>
+            <li>SoundOut</li>
+            <li>SoundIn</li>
+            <li>SoundFade</li>
+        </ol>
+        <li>Speed</li>
+        <ol>
+            <li>Speed1</li>
+            <li>Speed2</li>
+            <li>Speed3</li>
+            <li>Speed4</li>
+            <li>Speed5</li>
+            <li>Speed6</li>
+            <li>Speed7</li>
+            <li>Speed8</li>
+            <li>Speed9</li>
+            <li>Speed10</li>
+            <li>Speed11</li>
+            <li>Speed12</li>
+            <li>Speed13</li>
+            <li>Speed14</li>
+            <li>Speed15</li>
+            <li>BPM</li>
+        </ol>
+        <li>Playback</li>
+        <ol>
+            <li>Playback1</li>
+            <li>...</li>
+            <li>Playback50</li>
+        </ol>
+    </ol>
+    <li>DataPools</li>
+    <ol>
+        <li>Default</li>
+        <ol>
+            <li>Worlds</li>
+            <ol>
+                <li>Full</li>
+            </ol>
+            <li>Filters</li>
+            <ol>
+                <li>Open</li>
+                <ol>
+                    <li>FixtureFilterRules</li>
+                </ol>
+                <li>Patch</li>
+                <ol>
+                    <li>FixtureFilterRules</li>
+                </ol>
+                <li>FixtureSheet</li>
+                <ol>
+                    <li>FixtureFilterRules</li>
+                </ol>
+                <li>SequenceSheet</li>
+                <ol>
+                    <li>FixtureFilterRules</li>
+                </ol>
+                <li>LayoutView</li>
+                <ol>
+                    <li>FixtureFilterRules</li>
+                </ol>
+            </ol>
+            <li>PresetPools</li>
+            <ol>
+                <li>Dimmer</li>
+                <li>Position</li>
+                <li>Gobo</li>
+                <li>Color</li>
+                <li>Beam</li>
+                <li>Focus</li>
+                <li>Control</li>
+                <li>Shapers</li>
+                <li>Video</li>
+                <li>All 1</li>
+                <li>All 2</li>
+                <li>All 3</li>
+                <li>All 4</li>
+                <li>All 5</li>
+            </ol>
+            <li>Groups</li>
+            <li>Sequences</li>
+            <ol>
+                <li>Default</li>
+                <ol>
+                    <li>CueZero</li>
+                </ol>
+            </ol>
+            <li>Plugins</li>
+            <li>Macros</li>
+            <li>MAtricks</li>
+            <li>Configurations</li>
+            <ol>
+                <li>DefaultSequence</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultMacro</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultView</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultGroup</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultPreset</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultPlugin</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultUser</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultSound</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultScreenConfig</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultMaster</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultSpeedMaster</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+                <li>DefaultPlaybackMaster</li>
+                <ol>
+                    <li>ConfigEntry 1</li>
+                </ol>
+            </ol>
+            <li>Pages</li>
+            <ol>
+                <li>Page 1</li>
+            </ol>
+            <li>Layouts</li>
+            <ol>
+                <li>Default</li>
+            </ol>
+            <li>Timecodes</li>
+        </ol>
+    </ol>
+    <li>DMXRoot</li>
+    <li>Agendas</li>
+    <li>Remotes</li>
+    <ol>
+        <li>DCRemotes</li>
+        <li>MIDIRemotes</li>
+        <li>DmxRemotes</li>
+    </ol>
+    <li>OSCBase</li>
+    <ol>
+        <li>OSCData 1</li>
+    </ol>
+    <li>UserProfiles</li>
+    <ol>
+        <li>Default</li>
+        <ol>
+            <li>Environments</li>
+            <ol>
+                <li>UserEnvironment 1</li>
+                <ol>
+                    <li>Selection</li>
+                    <ol>
+                        <li>Matrick</li>
+                    </ol>
+                </ol>
+                <li>UserEnvironment 2</li>
+                <ol>
+                    <li>Selection</li>
+                    <ol>
+                        <li>Matrick</li>
+                    </ol>
+                </ol>
+            </ol>
+            <li>EncoderPages</li>
+            <ol>
+                <li>Dimmer</li>
+                <ol>
+                    <li>Dimmer</li>
+                </ol>
+            </ol>
+            <ol>
+                <li>Position</li>
+                <ol>
+                    <li>PanTilt</li>
+                </ol>
+                <li>Gobo</li>
+                <li>Color</li>
+                <ol>
+                    <li>RGB</li>
+                </ol>
+                <li>Beam</li>
+                <ol>
+                    <li>Beam</li>
+                </ol>
+                <li>Focus</li>
+                <ol>
+                    <li>Focus</li>
+                </ol>
+                <li>Control</li>
+                <li>Shapers</li>
+                <li>Video</li>
+                <li>Phaser</li>
+                <ol>
+                    <li>Phaser</li>
+                </ol>
+            </ol>
+
+            <li>Cameras</li>
+            <ol>
+                <li>Auto</li>
+                <li>Front</li>
+                <li>Front/Left</li>
+                <li>Left</li>
+                <li>Back/Left</li>
+                <li>Back</li>
+                <li>Back/Right</li>
+                <li>Right</li>
+                <li>Front/Right</li>
+                <li>Top</li>
+                <li>2D Front</li>
+                <li>2D Left</li>
+                <li>2D Back</li>
+                <li>2D Right</li>
+                <li>2D Top</li>
+            </ol>
+            <li>WindowTypes</li>
+            <ol>
+                <li>Window3d</li>
+                <li>WindowAlignBar</li>
+                <li>WindowAppearancePool</li>
+                <li>WindowAtFilter</li>
+                <li>WindowCameraPool</li>
+                <li>WindowRenderQualityPool</li>
+                <li>WindowClock</li>
+                <li>WindowColorPicker</li>
+                <li>WindowCommandLine</li>
+                <li>WindowDataPool</li>
+                <li>WindowDmxSheet</li>
+                <li>WindowConfigurationPool</li>
+                <li>WindowFilterPool</li>
+                <li>WindowFixtureSheet</li>
+                <li>WindowSymbolPool</li>
+                <li>WindowGelPool</li>
+                <li>WindowGoboPool</li>
+                <li>WindowGroupPool</li>
+                <li>WindowHelpViewer</li>
+                <li>WindowImagePool</li>
+                <li>WindowInfo</li>
+                <li>WindowLayoutPool</li>
+                <li>WindowLayoutView</li>
+                <li>WindowMacroPool</li>
+                <li>WindowMatricks</li>
+                <li>WindowMatricksPool</li>
+                <li>WindowMeshPool</li>
+                <li>WindowMessageCenter</li>
+                <li>WindowPagePool</li>
+                <li>WindowPhaserEditor</li>
+                <li>WindowPlaybacks</li>
+                <li>WindowPluginPool</li>
+                <li>WindowProgrammerParts</li>
+                <li>WindowRunningPlaybacks</li>
+                <li>WindowRDM</li>
+                <li>WindowScribblePool</li>
+                <li>WindowSelectionBar</li>
+                <li>WindowSelectionView</li>
+                <li>WindowSequencePool</li>
+                <li>WindowSequenceSheet</li>
+                <li>WindowSmartView</li>
+                <li>WindowSound</li>
+                <li>WindowSoundPool</li>
+                <li>WindowStepBar</li>
+                <li>WindowSysteminfo</li>
+                <li>WindowSystemMonitor</li>
+                <li>WindowTimecodePool</li>
+                <li>WindowTimecodeSlotPool</li>
+                <li>WindowTimecode</li>
+                <li>WindowUniversePool</li>
+                <li>WindowUserPool</li>
+                <li>WindowVideoPool</li>
+                <li>WindowViewPool</li>
+                <li>WindowWorldPool</li>
+                <li>WindowAgenda</li>
+                <li>WindowXkeys</li>
+                <li>WindowTrackpad</li>
+                <li>WindowCustomMasterSection</li>
+                <li>WindowEncoderBar</li>
+                <li>WindowCommandWingBar</li>
+                <li>WindowContentSheet</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+                <li>WindowPresetPool</li>
+            </ol>
+            <li>Views</li>
+            <ol>
+                <li>Fixture</li>
+                <li>Preset</li>
+                <li>Sequence Sheet</li>
+                <li>Phaser</li>
+                <li>3D</li>
+                <li>Help</li>
+                <li>MAtricks</li>
+                <li>ColorPicker</li>
+                <li>TrackPad</li>
+                <li>Matricks S6</li>
+                <li>ColorPicker S6</li>
+                <li>Trackpad S6</li>
+                <li>AtFilter S6</li>
+            </ol>
+            <li>StorePreferences</li>
+            <ol>
+                <li>Preset</li>
+                <li>Sequence</li>
+                <li>Executor</li>
+                <li>Views</li>
+                <ol>
+                    <li>FixtureSheet</li>
+                    <li>DmxSheet</li>
+                    <li>SequenceSheet</li>
+                    <li>ContentSheet</li>
+                    <li>Window3D</li>
+                    <li>MessageGrid</li>
+                    <li>RunningPlaybacks</li>
+                    <li>ClockWindow</li>
+                    <li>SmartView</li>
+                    <li>GenericPool</li>
+                    <li>PresetPool</li>
+                    <li>CommandlineVindow</li>
+                    <li>HelpViewerWindow</li>
+                    <li>SelectionView</li>
+                    <li>SysteminfoWindow</li>
+                    <li>SysmonWindow</li>
+                    <li>Window</li>
+                    <li>GelPool</li>
+                    <li>TimecodeWindow</li>
+                    <li>WindowAgenda</li>
+                    <li>WindowPhaserEditor</li>
+                </ol>
+                <li>Timecode</li>
+                <li>AutoCreateSettings</li>
+            </ol>
+            <li>ExecutorFixation</li>
+            <li>SequenceSelection</li>
+            <li>SpecialExecutorPages</li>
+            <ol>
+                <li>SpecialExectors 1</li>
+                <li>SpecialExectors 2</li>
+                <li>SpecialExectors 3</li>
+                <li>SpecialExectors 4</li>
+                <li>SpecialExectors 5</li>
+                <li>SpecialExectors 6</li>
+            </ol>
+            <li>TemporaryWindowSettings</li>
+            <ol>
+                <li>SequenceSheetSettings</li>
+                <ol>
+                    <li>Column Filters</li>
+                    <ol>
+                        <li>SequenceSheetColumnFilter 1</li>
+                    </ol>
+                    <li>GridColumnDefaults</li>
+                    <li>SequenceSheetRowFilter</li>
+                    <ol>
+                        <li>GridobjectContentFilterItem</li>
+                    </ol>
+                    <li>RecipeSheetSettings</li>
+                    <ol>
+                        <li>Column Filters</li>
+                        <li>GridColumnDefaults</li>
+                        <li>GridContenFilter</li>
+                    </ol>
+                </ol>
+                <li>TimecodeWindowSettings</li>
+                <li>PatchEditorSetings</li>
+                <li>PatchLiveSettings</li>
+                <li>MatricksWindowSettings</li>
+                <li>PresetEditorSettings</li>
+                <li>WindowPhaserEditorSettings</li>
+                <li>FixtureEditorSettings</li>
+                <li>ExecEditorSettings</li>
+            </ol>
+            <li>SmartViewPool</li>
+            <li>Variables</li>
+            <li>ScreenConfigurations</li>
+            <ol>
+                <li>Default</li>
+                <ol>
+                    <li>ScreenContents</li>
+                    <ol>
+                        <li>ScreenContent 1</li>
+                        <ol>
+                            <li>WindowSystemMonitor</li>
+                            <ol>
+                                <li>SysmonWindowSettings</li>
+                                <li>WiindowAppearance</li>
+                                <li>WindowScrollPositions</li>
+                            </ol>
+                        </ol>
+                        <li>ScreenContent 2</li>
+                        <li>ScreenContent 3</li>
+                        <li>ScreenContent 4</li>
+                        <li>ScreenContent 5</li>
+                        <li>ScreenContent 6</li>
+                        <li>ScreenContent 7</li>
+                        <li>ScreenContent 8</li>
+                        <li>ScreenContent 9</li>
+                        <li>ScreenContent 10</li>
+                        <li>ScreenContent 11</li>
+                        <li>ScreenContent 12</li>
+                        <li>ScreenContent 13</li>
+                        <li>ScreenContent 14</li>
+                        <li>ScreenContent 15</li>
+                    </ol>
+                    <li>ViewButtonScreens 2</li>
+                    <ol>
+                        <li>ViewButtonScreen 1</li>
+                        <ol>
+                            <li>Fixture</li>
+                            <li>Preset</li>
+                            <li>Sequence Sheet</li>
+                            <li>Phaser</li>
+                            <li>3D</li>
+                            <li>Help</li>
+                        </ol>
+                        <li>ViewButtonScreen 2</li>
+                        <li>ViewButtonScreen 3</li>
+                        <li>ViewButtonScreen 4</li>
+                        <li>ViewButtonScreen 5</li>
+                        <li>ViewButtonScreen 6</li>
+                        <li>ViewButtonScreen 7</li>
+                    </ol>
+                    <li>PluginPreferencesCollect 3</li>
+                </ol>
+                <li>3D</li>
+                <ol>
+                    <li>ScreenContents</li>
+                    <li>ViewButtonScreens 2</li>
+                    <li>PluginPreferencesCollect 3</li>
+                </ol>
+                <li>Remote</li>
+                <ol>
+                    <li>ScreenContents</li>
+                    <li>ViewButtonScreens 2</li>
+                    <li>PluginPreferencesCollect 3</li>
+                </ol>
+            </ol>
+            <li>LayoutelementDefaultsCollect</li>
+            <ol>
+                <li>View</li>
+                <li>Macro</li>
+                <li>Plugin</li>
+                <li>Group</li>
+                <li>World</li>
+                <li>Sequence</li>
+                <li>Master</li>
+                <li>Sound</li>
+                <li>User</li>
+                <li>ScreenConfig</li>
+                <li>Fixture</li>
+                <li>MAtricks</li>
+                <li>Preset</li>
+            </ol>
+            <li>KeyboardShortcuts - 151 keyboard shortcuts</li>
+            <li>UserAttributePreferences</li>
+            <ol>
+                <li>Dimmer</li>
+                <li>Pan</li>
+                <li>Tilt</li>
+                <li>PanTiltDistance</li>
+                <li>PanRotate</li>
+                <li>TiltRotate</li>
+                <li>PositionEffect</li>
+                <li>PositionEffectRate</li>
+                <li>PositionEffectFade</li>
+                <li>XYZ_x</li>
+                <li>XYZ_y</li>
+                <li>XYZ_z</li>
+                <li>XYZ_Flip</li>
+                <li>XYZ_MArker</li>
+                <li>XYZ_Mode</li>
+                <li>Rot_x</li>
+                <li>Rot_y</li>
+                <li>Rot_z</li>
+                <li>Scale_x</li>
+                <li>Scale_y</li>
+                <li>Scale_z</li>
+                <li>Gobo1</li>
+                <li>Gobo1SelectSpin</li>
+                <li>Gobo1SelectShake</li>
+                <li>Gobo1SelectEffects</li>
+                <li>Gobo1WheelIndex</li>
+                <li>Gobo1WheelSpin</li>
+                <li>Gobo1WheelShake</li>
+                <li>Gobo1WheelRandom</li>
+                <li>Gobo1WheelAudio</li>
+                <li>Gobo1Pos</li>
+                <li>Gobo1PosRotate</li>
+                <li>Gobo1PosShake</li>
+                <li>Gobo2</li>
+                <li>Gobo2SelectSpin</li>
+                <li>Gobo2SelectShake</li>
+                <li>Gobo2SelectEffects</li>
+                <li>Gobo2WheelIndex</li>
+                <li>Gobo2WheelSpin</li>
+                <li>Gobo2WheelShake</li>
+                <li>Gobo2WheelRandom</li>
+                <li>Gobo2WheelAudio</li>
+                <li>Gobo2Pos</li>
+                <li>Gobo2PosRotate</li>
+                <li>Gobo2PosShake</li>
+                <li>Gobo3</li>
+                <li>Gobo3SelectSpin</li>
+                <li>Gobo3SelectShake</li>
+                <li>Gobo3SelectEffects</li>
+                <li>Gobo3WheelIndex</li>
+                <li>Gobo3WheelSpin</li>
+                <li>Gobo3WheelShake</li>
+                <li>Gobo3WheelRandom</li>
+                <li>Gobo3WheelAudio</li>
+                <li>Gobo3Pos</li>
+                <li>Gobo3PosRotate</li>
+                <li>Gobo3PosShake</li>
+                <li>AnimationWheel1</li>
+                <li>AnimationWheel1Audio</li>
+                <li>AnimationWheel1Macro</li>
+                <li>AnimationWheel1Random</li>
+                <li>AnimationWheel1SelectEffects</li>
+                <li>AnimationWheel1SelectShake</li>
+                <li>AnimationWheel1SelectSpin</li>
+                <li>AnimationWheel1Pos</li>
+                <li>AnimationWheel1PosRotate</li>
+                <li>AnimationWheel1PosShake</li>
+                <li>AnimationSystem1</li>
+                <li>AnimationSystem1Ramp</li>
+                <li>AnimationSystem1Shake</li>
+                <li>AnimationSystem1Audio</li>
+                <li>AnimationSystem1Random</li>
+                <li>AnimationSystem1Pos</li>
+                <li>AnimationSystem1PosRotate</li>
+                <li>AnimationSystem1PosShake</li>
+                <li>AnimationSystem1PosRandom</li>
+                <li>AnimationSystem1PosAudio</li>
+                <li>AnimationSystem1Macro</li>
+                <li>MediaFolder1</li>
+                <li>MediaContent1</li>
+                <li>ModelFolder1</li>
+                <li>ModelContent1</li>
+                <li>Playmode</li>
+                <li>PlayBegin</li>
+                <li>PlayEnd</li>
+                <li>PlaySpeed</li>
+                <li>ColorEffects1</li>
+                <li>Color1</li>
+                <li>Color1WheelIndex</li>
+                <li>Color1WheelSpin</li>
+                <li>Color1WheelRandom</li>
+                <li>Color1WheelAudio</li>
+                <li>Color2</li>
+                <li>Color2WheelIndex</li>
+                <li>Color2WheelSpin</li>
+                <li>Color2WheelRandom</li>
+                <li>Color2WheelAudio</li>
+                <li>Color3</li>
+                <li>Color3WheelIndex</li>
+                <li>Color3WheelSpin</li>
+                <li>Color3WheelRandom</li>
+                <li>Color3WheelAudio</li>
+                <li>Color4</li>
+                <li>Color4WheelIndex</li>
+                <li>Color4WheelSpin</li>
+                <li>Color4WheelRandom</li>
+                <li>Color4WheelAudio</li>
+                <li>ColorRGB_R</li>
+                <li>ColorRGB_G</li>
+                <li>ColorRGB_B</li>
+                <li>ColorRGB_C</li>
+                <li>ColorRGB_M</li>
+                <li>ColorRGB_y</li>
+                <li>ColorRGB_RY</li>
+                <li>ColorRGB_GY</li>
+                <li>ColorRGB_GC</li>
+                <li>ColorRGB_BC</li>
+                <li>ColorRGB_BM</li>
+                <li>ColorRGB_RM</li>
+                <li>ColorRGB_W</li>
+                <li>ColorRGB_WW</li>
+                <li>ColorRGB_CW</li>
+                <li>ColorRGB_UV</li>
+                <li>ColorMacro</li>
+                <li>ColorMacro2</li>
+                <li>CTo</li>
+                <li>CTC</li>
+                <li>CTB</li>
+                <li>Tint</li>
+                <li>HSB_Hue</li>
+                <li>HSB_Saturation</li>
+                <li>HSB_Brightness</li>
+                <li>HSB_Quality</li>
+                <li>CIE_X</li>
+                <li>CIE_Y</li>
+                <li>CIE_Brightness</li>
+                <li>VideoBoost_R</li>
+                <li>VideoBoost_G</li>
+                <li>VideoBoost_B</li>
+                <li>VideoHueShift</li>
+                <li>VideoSaturation</li>
+                <li>VideoBrightness</li>
+                <li>VideoContrast</li>
+                <li>VideoKeyColor_R</li>
+                <li>VideoKeyColor_G</li>
+                <li>VideoColorKey_B</li>
+                <li>VideoKeyIntensity</li>
+                <li>VideoKeyTolerance</li>
+                <li>StrobeDuration</li>
+                <li>StrobeRate</li>
+                <li>Shutter1</li>
+                <li>Shutter1Strobe</li>
+                <li>Shutter1StrobePulse</li>
+                <li>Shutter1StrobePulseClose</li>
+                <li>Shutter1StrobePulseOpen</li>
+                <li>Shutter1StrobeRandom</li>
+                <li>Shutter1StrobeRandomPulse</li>
+                <li>Shutter1StrobeRandomPulseClose</li>
+                <li>Shutter1StrobeRandomPulseOpen</li>
+                <li>Shutter1StrobeEffect</li>
+                <li>Shutter2</li>
+                <li>Shutter2Strobe</li>
+                <li>Shutter2StrobePulse</li>
+                <li>Shutter2StrobePulseClose</li>
+                <li>Shutter2StrobePulseOpen</li>
+                <li>Shutter2StrobeRandom</li>
+                <li>Shutter2StrobeRandomPulse</li>
+                <li>Shutter2StrobeRandomPulseClose</li>
+                <li>Shutter2StrobeRandomPulseOpen</li>
+                <li>Shutter2StrobeEffect</li>
+                <li>Shutter3</li>
+                <li>Shutter3Strobe</li>
+                <li>Shutter3StrobePulse</li>
+                <li>Shutter3StrobePulseClose</li>
+                <li>Shutter3StrobePulseOpen</li>
+                <li>Shutter3StrobeRandom</li>
+                <li>Shutter3StrobeRandomPulse</li>
+                <li>Shutter3StrobeRandomPulseClose</li>
+                <li>Shutter3StrobeRandomPulseOpen</li>
+                <li>Shutter3StrobeEffect</li>
+                <li>Iris</li>
+                <li>IrisStrobe</li>
+                <li>IrisStrobeRandom</li>
+                <li>IrisPulseClose</li>
+                <li>IrisPulseOpen</li>
+                <li>IrisRandomPulseClose</li>
+                <li>IrisRandomPulseOpen</li>
+                <li>Frost1</li>
+                <li>Frost1PulseOpen</li>
+                <li>Frost1PulseClose</li>
+                <li>Frost1Ramp</li>
+                <li>Frost2</li>
+                <li>Frost2PulseOpen</li>
+                <li>Frost2PulseClose</li>
+                <li>Frost2Ramp</li>
+                <li>Prism1</li>
+                <li>Prism1SelectSpin</li>
+                <li>Prism1Macro</li>
+                <li>Prism1Pos</li>
+                <li>Prism1PosRotate</li>
+                <li>Prism2</li>
+                <li>Prism2SelectSpin</li>
+                <li>Prism2Macro</li>
+                <li>Prism2Pos</li>
+                <li>Prism2PosRotate</li>
+                <li>Effects1</li>
+                <li>Effects1Rate</li>
+                <li>Effects1Fade</li>
+                <li>Effects1Adjust1</li>
+                <li>Effects1Pos</li>
+                <li>Effects1PosRotate</li>
+                <li>Effects2</li>
+                <li>Effects2Rate</li>
+                <li>Effects2Fade</li>
+                <li>Effects2Adjust1</li>
+                <li>Effects2Pos</li>
+                <li>Effects2PosRotate</li>
+                <li>EffectsSync</li>
+                <li>BeamShaper</li>
+                <li>BeamShaperMacro</li>
+                <li>BeamShaperPos</li>
+                <li>BeamShaperPosRotate</li>
+                <li>Focus1</li>
+                <li>Focus1Adjust</li>
+                <li>Focus1Distance</li>
+                <li>Focus2</li>
+                <li>Focus2Adjust</li>
+                <li>Focus2Distance</li>
+                <li>Zoom</li>
+                <li>ZoomModeSpot</li>
+                <li>ZoomModeBeam</li>
+                <li>Control1</li>
+                <li>DimmerMode</li>
+                <li>DimmerCurve</li>
+                <li>BlackoutMode</li>
+                <li>LEDFrequency</li>
+                <li>LEDZoneMode</li>
+                <li>PixelMode</li>
+                <li>PanMode</li>
+                <li>TiltMode</li>
+                <li>PanTiltMode</li>
+                <li>PositionModes</li>
+                <li>Gobo1WheelMode</li>
+                <li>Gobo2WheelMode</li>
+                <li>Gobo3WheelMode</li>
+                <li>AnimationWheel1Mode</li>
+                <li>AnimationIndexRotateMode</li>
+                <li>AnimationWheelShortcutMode</li>
+                <li>Color1Mode</li>
+                <li>Color2Mode</li>
+                <li>Color3Mode</li>
+                <li>Color4Mode</li>
+                <li>ColorWheelShortcutMode</li>
+                <li>CyanMode</li>
+                <li>MagentaMode</li>
+                <li>YellowMode</li>
+                <li>ColorMixMode</li>
+                <li>ChromaticMode</li>
+                <li>ColorCalibrationMode</li>
+                <li>ColorConsistency</li>
+                <li>ColorControl</li>
+                <li>ColorModelMode</li>
+                <li>ColorSettingsReset</li>
+                <li>ColorUniformity</li>
+                <li>CRIMode</li>
+                <li>CustomColor</li>
+                <li>UVStability</li>
+                <li>WavelengthCorrection</li>
+                <li>White Count</li>
+                <li>StrobeMode</li>
+                <li>ZoomMode</li>
+                <li>FocusMode</li>
+                <li>IrisMode</li>
+                <li>FanMode</li>
+                <li>FollowSpotMode</li>
+                <li>BeamEffectIndexRotateMode</li>
+                <li>IntensityMSpeed</li>
+                <li>PositionMSpeed</li>
+                <li>ColorMixMSpeed</li>
+                <li>ColorWheelSelectMSpeed</li>
+                <li>GoboWheel1MSpeed</li>
+                <li>GoboWheel2MSpeed</li>
+                <li>GoboWheel3MSpeed</li>
+                <li>GoboWheel4MSpeed</li>
+                <li>IrisMSpeed</li>
+                <li>Prism1MSpeed</li>
+                <li>Prism2MSpeed</li>
+                <li>FocusMSpeed</li>
+                <li>Frost1MSpeed</li>
+                <li>Frost2MSpeed</li>
+                <li>FrameMSpeed</li>
+                <li>GlobalMSpeed</li>
+                <li>ZoomMSpeed</li>
+                <li>ReflectorAdjust</li>
+                <li>FixtureGlobalReset</li>
+                <li>ShutterReset</li>
+                <li>BeamReset</li>
+                <li>ColorMixReset</li>
+                <li>ColorWheelReset</li>
+                <li>FocusReset</li>
+                <li>FrameReset</li>
+                <li>GoboWheelReset</li>
+                <li>IntensityReset</li>
+                <li>IrisReset</li>
+                <li>PositionReset</li>
+                <li>PanReset</li>
+                <li>TiltReset</li>
+                <li>ZoomReset</li>
+                <li>CTBReset</li>
+                <li>CTOReset</li>
+                <li>CTCReset</li>
+                <li>AnimationSystemReset</li>
+                <li>FixtureCalibrationReset</li>
+                <li>Function</li>
+                <li>LampControl</li>
+                <li>DisplayIntensity</li>
+                <li>DMXInput</li>
+                <li>NoFeature</li>
+                <li>Dummy</li>
+                <li>Blower1</li>
+                <li>Fan1</li>
+                <li>Fog1</li>
+                <li>Haze1</li>
+                <li>LampPowerMode</li>
+                <li>Fans</li>
+                <li>Blade1A</li>
+                <li>Blade1B</li>
+                <li>Blade2A</li>
+                <li>Blade2B</li>
+                <li>Blade3A</li>
+                <li>Blade3B</li>
+                <li>Blade4A</li>
+                <li>Blade4B</li>
+                <li>Blade1Rot</li>
+                <li>Blade2Rot</li>
+                <li>Blade3Rot</li>
+                <li>Blade4Rot</li>
+                <li>ShaperRot</li>
+                <li>ShaperMacros</li>
+                <li>ShaperMacrosSpeed</li>
+                <li>BladeSoft1A</li>
+                <li>BladeSoft1B</li>
+                <li>BladeSoft2A</li>
+                <li>BladeSoft2B</li>
+                <li>BladeSoft3A</li>
+                <li>BladeSoft3B</li>
+                <li>BladeSoft4A</li>
+                <li>BladeSoft4B</li>
+                <li>KeyStone1A</li>
+                <li>KeyStone1B</li>
+                <li>KeyStone2A</li>
+                <li>KeyStone2B</li>
+                <li>KeyStone3A</li>
+                <li>KeyStone3B</li>
+                <li>KeyStone4A</li>
+                <li>KeyStone4B</li>
+                <li>Video</li>
+                <li>MediaFolder</li>
+                <li>MediaContent</li>
+                <li>VideoEffect1Type</li>
+                <li>VideoEffect1Parameter1</li>
+                <li>VideoCamera1</li>
+                <li>FieldOfView</li>
+                <li>InputSource</li>
+                <li>VideoBlendMode</li>
+                <li>VideoSoundVolume1</li>
+            </ol>
+            <li>RenderQualities</li>
+            <ol>
+                <li>No Beam</li>
+                <li>Line</li>
+                <li>Simple</li>
+                <li>Gobo</li>
+                <li>Gobo Animated</li>
+                <li>Gobo Shadow</li>
+                <li>High Shadow</li>
+                <li>High Shadow Fancy</li>
+            </ol>
+            <li>SequenceSelection</li>
+            <li>Collection</li>
+        </ol>
+    </ol>
+    <li>Users</li>
+    <ol>
+        <li>Guest</li>
+        <li>Admin</li>
+        <li>3D</li>
+        <li>Remote</li>
+        <ol>
+            <li>PlaybackTable</li>
+            <li>PSNProtocol</li>
+            <li>Materials</li>
+        </ol>
+    </ol>
+</ol>
+
+<li>TimeCodeSlots</li>
+<ol>
+    <li>TCSlot 1</li>
+    <li>TCSlot 2</li>
+    <li>TCSlot 3</li>
+    <li>TCSlot 4</li>
+    <li>TCSlot 5</li>
+    <li>TCSlot 6</li>
+    <li>TCSlot 7</li>
+    <li>TCSlot 8</li>
+</ol>
+<li>ColorTheme</li>
+<ol>
+    <li>ColorDefCollect</li>
+    <li>Global</li>
+    <ol>
+        <li>Text</li>
+        <li>TextDefault</li>
+        <li>TextDark</li>
+        <li>Background</li>
+        <li>BackgroundDark</li>
+        <li>Header</li>
+        <li>AltHeader</li>
+        <li>DefaultCellBackground</li>
+        <li>DefaultCellAltBackground</li>
+        <li>Selected</li>
+        <li>SelectedInverted</li>
+        <li>SelectedEdge</li>
+        <li>InvalidGridPosition</li>
+        <li>MainMultiPatchSelected</li>
+        <li>PartlySelected</li>
+        <li>SelectedPreset</li>
+        <li>PartlySelectedPreset</li>
+        <li>BackgroundSelected</li>
+        <li>BackgroundInvalidGridPosition</li>
+        <li>BackgroundMainMultiPatchSelected</li>
+        <li>BackgroundSelectedInverted</li>
+        <li>Connected</li>
+        <li>Lasso</li>
+        <li>FocusFrame</li>
+        <li>WindowFocus</li>
+        <li>Hover</li>
+        <li>SelectedFrameBackground</li>
+        <li>SelectedRowBorder</li>
+        <li>Pressed</li>
+        <li>ButtonBackground</li>
+        <li>ActiveIcon</li>
+        <li>Inactive</li>
+        <li>Bright</li>
+        <li>TitleGray</li>
+        <li>LabelText</li>
+        <li>IndicatorBar</li>
+        <li>ButtonBackgroundDarker</li>
+        <li>PropertyBackground</li>
+        <li>PropertyBackgroundActive</li>
+        <li>Fixed</li>
+        <li>Icon</li>
+        <li>ButtonIndicatorIcon</li>
+        <li>IconHover</li>
+        <li>RedIndicator</li>
+        <li>DarkRedIndicator</li>
+        <li>GreenIndicator</li>
+        <li>DarkGreenIndicator</li>
+        <li>YellowIndicator</li>
+        <li>OrangeIndicator</li>
+        <li>CyanIndicator</li>
+        <li>UpdateIndicator</li>
+        <li>UpdateAddIndicator</li>
+        <li>UpdateIntegrated</li>
+        <li>UpdateAddIntegrated</li>
+        <li>Warning</li>
+        <li>Error</li>
+        <li>Alert</li>
+        <li>Success</li>
+        <li>RedBackground</li>
+        <li>OverlayBackground</li>
+        <li>GreenBackground</li>
+        <li>Shadow</li>
+        <li>ShadowDark</li>
+        <li>DeskLock</li>
+        <li>Disabled</li>
+        <li>Referenced</li>
+        <li>AfterGlow</li>
+        <li>GlobalPreset</li>
+        <li>SelectivePreset</li>
+        <li>UniversalPreset</li>
+        <li>ForSome</li>
+        <li>ForAll</li>
+        <li>ForNone</li>
+        <li>Lightened</li>
+        <li>Darkened</li>
+        <li>Transparent</li>
+        <li>Transparent25</li>
+        <li>Transparent50</li>
+        <li>Transparent75</li>
+        <li>Parked</li>
+        <li>RemoteInputLock</li>
+        <li>TextViewSelectedRow</li>
+        <li>TextViewBackground</li>
+        <li>TextViewFixedBackground</li>
+        <li>Collected</li>
+        <li>UserChanged</li>
+    </ol>
+    <li>SheetColor</li>
+    <li>Playback</li>
+    <li>PoolDefault</li>
+    <ol>
+        <li>ColorGroups</li>
+    </ol>
+</ol>
+<li>Menu</li>
+<li>Addons</li>
+<ol>
+    <li>MVR</li>
+    <ol>
+        <li>ApiGeneral</li>
+        <li>ApiProgress</li>
+        <li>ApiObject</li>
+    </ol>
+</ol>
+<li>GraphicsRoot</li>
+<ol>
+    <li>ShaderProgramCollect</li>
+    <ol>
+        <li>WindowProgram</li>
+        <li>DisplayProgram</li>
+        <li>DisplayMSProgram</li>
+        <li>DisplayFXAAProgram</li>
+        <li>Textured2D</li>
+        <li>Textured2DArray</li>
+        <li>ColoredLines3D</li>
+        <li>Color2D</li>
+        <li>YUV420</li>
+        <li>StageShadowMap</li>
+        <li>StageShadowMapTransparent</li>
+        <li>StageGbuffer</li>
+        <li>StageDeferred</li>
+        <li>StageLightBemas_AM_1_4</li>
+        <li>StageLightBemas_AM_1_4_Rectangle</li>
+        <li>StageLightBemas_AM_1_4_SM</li>
+        <li>StageLightBemas_AM_1_4_SM_Rectangle</li>
+        <li>StageLightBemas_RT_1_4</li>
+        <li>StageLightBemas_RT_1_4_SM</li>
+        <li>StageLightBemas_RT_1_4_Rectangle</li>
+        <li>StageLightBemas_RT_1_4_SM_Rectangle</li>
+        <li>StageLightBemas</li>
+        <li>StageLightBemas_AM</li>
+        <li>StageLightBemas_SM</li>
+        <li>StageLightBemas_SM_AM</li>
+        <li>StageLightBemas_RT</li>
+        <li>StageLightBemas_SM_RT</li>
+        <li>StageLightBemas_Rectangle</li>
+        <li>StageLightBemas_Rectangle_AM</li>
+        <li>StageLightBemas_Rectangle_SM</li>
+        <li>StageLightBemas_Rectangle_SM_AM</li>
+        <li>StageLightBemas_Rectangle_RT</li>
+        <li>StageLightBemas_Rectangle_SM_RT</li>
+        <li>AdaptHDRExposure</li>
+        <li>PostProcessorHDR0</li>
+        <li>PostProcessorHDR1</li>
+        <li>PostProcessorBloom0</li>
+        <li>PostProcessorBloom1</li>
+        <li>PostProcessorSolid</li>
+        <li>SolidTransform</li>
+        <li>WorldOrigin</li>
+        <li>WorldOriginSimple</li>
+        <li>SelectionView</li>
+        <li>CompAngMap</li>
+        <li>ColoredPoint3D</li>
+        <li>ColoredCubeFromPoint</li>
+        <li>ColoredOctaederFromPoint</li>
+        <li>Window3DText</li>
+        <li>ColEngineDebugView</li>
+        <li>MeshPreview3D</li>
+        <li>Leds</li>
+    </ol>
+    <li>TextureCollect</li>
+    <ol>
+        <li>Textures</li>
+        <li>Fonts</li>
+        <li>ContentManager 3</li>
+    </ol>
+    <li>MonitorCollect</li>
+    <ol>
+        <li>Built-in Retina Display</li>
+    </ol>
+    <li>PultCollect</li>
+    <ol>
+        <li>Pult 1</li>
+        <ol>
+            <li>Devices</li>
+            <ol>
+                <li>MouseCollect 1</li>
+                <ol>
+                    <li>Mouse 1</li>
+                    <li>Mouse 2</li>
+                </ol>
+                <li>Keyboard 2</li>
+                <li>Touch 3</li>
+                <li>GestureManager 4</li>
+            </ol>
+            <li>DisplayCollect</li>
+            <ol>
+                <li>Display 1</li>
+                <ol>
+                    <li>Rows</li>
+                    <ol>
+                        <li>Item 1 - Strech</li>
+                        <li>Item 2 - Strech</li>
+                        <li>Item 3 - Content</li>
+                        <li>Item 4 - Content</li>
+                    </ol>
+                    <li>Columns</li>
+                    <ol>
+                        <li>Item 1 - Content</li>
+                        <li>Item 2 - Strech</li>
+                        <li>Item 3 - Content</li>
+                    </ol>
+                    <li>CmdLineSection</li>
+                    <ol>
+                        <li>Rows</li>
+                        <ol>
+                            <li>Item 1</li>
+                        </ol>
+                        <li>Columns</li>
+                        <ol>
+                            <li>Item 1</li>
+                            <li>Item 2</li>
+                            <li>Item 3</li>
+                            <li>Item 4</li>
+                            <li>Item 5</li>
+                            <li>Item 6</li>
+                            <li>Item 7</li>
+                            <li>Item 8</li>
+                            <li>Item 9</li>
+                            <li>Item 10</li>
+                            <li>Item 11</li>
+                            <li>Item 12</li>
+                            <li>Item 13</li>
+                        </ol>
+                        <li>Button 3</li>
+                        <li>UILayoutGrid 4</li>
+                        <ol>
+                            <li>Rows</li>
+                            <ol>
+                                <li>Item 1</li>
+                            </ol>
+                            <li>Columns</li>
+                            <ol>
+                                <li>Item 1</li>
+                            </ol>
+                        </ol>
+                        <li>DisplayCommandLine</li>
+                        <li>LinkCmd</li>
+                        <li>Battery</li>
+                        <li>Memory</li>
+                        <li>Network</li>
+                        <li>Phaser</li>
+                        <li>PhaserValues</li>
+                        <li>Message</li>
+                        <li>World</li>
+                        <li>KeyboardShortcutsActive</li>
+                        <li>Button 15</li>
+
+                    </ol>
+                    <li>MainMenuCnt</li>
+                    <li>ScrollIndicatorBox</li>
+                    <li>ViewBar</li>
+                    <li>EncoderBarContainer</li>
+                    <li>MainDialog</li>
+                    <li>MainOverlay</li>
+                    <li>FullScreen</li>
+                    <li>ScreenOverlay</li>
+                    <li>ModalOverlay</li>
+                </ol>
+            </ol>
+        </ol>
+    </ol>
+</ol>
+<li>Temp</li>
+<ol>
+    <li>CmdLines</li>
+    <li>LogInterface</li>
+    <li>TestRGBInterface</li>
+    <li>ScribbleEdit</li>
+    <li>LoadedPlaybacks</li>
+    <li>RunningSequences</li>
+    <li>RunningMacros</li>
+    <li>DriveCollect</li>
+    <li>PultCollect</li>
+    <li>MyRunningSequences</li>
+    <li>MyRunningMacros</li>
+    <li>Front</li>
+    <li>ReleaseFile</li>
+    <li>SoundChannels</li>
+    <li>ProgLayers</li>
+    <li>RunningTimecodes</li>
+    <li>TempNetworkInterfaces</li>
+    <li>LayoutCameraObject</li>
+    <li>PsrFixtures</li>
+    <li>Timezones</li>
+    <li>MidiInDescriptions</li>
+    <li>MidiOutDescriptions</li>
+    <li>RunningPresets</li>
+    <li>MyRunningPresets</li>
+    <li>Render Quality</li>
+    <li>MultiPatchBase</li>
+</ol>
+<li>Certificates</li>
+<ol>
+    <li>OverallDeviceCertificate</li>
+    <li>MainModuleCertificate</li>
+</ol>
+<li>DeviceConfigurations</li>
+<ol>
+    <li>OutputStations</li>
+    <ol>
+        <li>Console</li>
+        <li>onPC</li>
+        <li>PU</li>
+        <li>NetworkNode</li>
+    </ol>
+    <li>DMXProtocols</li>
+</ol>
+<li>HardwareStatus</li>
+<ol>
+    <li>ExecutorKeyStatus</li>
+    <li>BatteryStatus</li>
+</ol>
+</ol>
+<script>
+    let toggler = document.getElementsByClassName("caret");
+    let i;
+
+    for (i = 0; i < toggler.length; i++) {
+        toggler[i].addEventListener("click", function () {
+            this.parentElement.querySelector(".nested").classList.toggle("active");
+            this.classList.toggle("caret-down");
+        });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<ol>
+    <li>Undefined</li>
+    <li>Console</li>
+    <li>onPC</li>
+    <li>PU</li>
+    <li>NetworkNode</li>
+    <li>InternalWing</li>
+    <li>Switch</li>
+    <li>Plugin</li>
+    <li>PluginSmall</li>
+    <li>Extension</li>
+    <li>UpdateMode</li>
+</ol>
